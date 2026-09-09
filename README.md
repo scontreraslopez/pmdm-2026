@@ -2,7 +2,9 @@
 
 ## Créditos
 
-El material del curso es una adaptación personal del material original del profesor **Jose Antonio López de Merlo**. ¡Muchas gracias por compartirlo!
+El material del curso es una adaptación personal del material original del profesor **Jose Antonio López de Merlo**. ¡Muchas gracias por compartirlo!. 
+
+A partir de dicho material se elaboró ya en 2025 una primera versión para esta misma asignatura, disponible en [https://github.com/scontreraslopez/pmdm-2025](https://github.com/scontreraslopez/pmdm-2025). Y de aquellos polvos, estos lodos.
 
 ## Uso legítimo y ético de la IA en la asignatura de PMDM
 
@@ -35,14 +37,17 @@ Este documento no es para prohibir la IA; es para enseñaros a usarla como lo ha
   * **Tú (El "Porqué"):** `// Usamos un Long para evitar un overflow si la suma es muy grande.`
 
 * **Priorizando el "Por qué" (Modo "Ask"):**
-    Siempre será mejor usar el modo "Preguntar" (Ask) que el modo "Agente" (Agent/Do it for me). Que la IA te **explique paso a paso** cómo refactorizar una función es mil veces más valioso para ti que pulsar un botón y que lo haga mágicamente sin que entiendas qué ha cambiado.
+    Siempre será mejor usar el modo "Preguntar" (Ask) que el modo "Agente" (Agent/Do it for me). Que la IA te **explique paso a paso** cómo refactorizar una función es mil veces más valioso para ti que pulsar un botón y que lo haga mágicamente sin que entiendas qué ha cambiado. Comentar que progresivamente los IDEs están empujando a que el *default* sea el modo "Agente", pero para aprender no es lo mejor.
 
 * **Dándole el Contexto Adecuado:**
     La IA no es adivina. Si le preguntas algo sin contexto, te dará una respuesta genérica. Usa la función `@` (por ejemplo, `@file:MiArchivo.kt`) para añadir al *prompt* los archivos específicos con los que estás trabajando. Así, su respuesta será relevante para tu proyecto.
 
+* **Scaffolding:**
+    Ya antes de la IA había muy buenas herramientas de scaffolding (generación de código base), porque para la gente ya ducha en el desarrolo escribir *boilerplate* consume mucho tiempo y aporta muy poco valor. Por citar algunas *Yeoman*, *Java Hipster*, *Spring Initializr*, etc. La IA puede generarte un esqueleto de proyecto para comenzar a desarrollar, yo también lo uso mucho para no pegarme una semana haciendo las mismas cuatro pantallas. Consejos aquí: modifica las dependencias para usar el stack con el que estás cómodo, revisa las versiones de las librería y ... simplifica el código generado: La IA tiende a generar código muy genérico y complejo, con muchos detalles, que en general no es lo que queremos. **No olvides que es tu responsabilidad entenderlo y adaptarlo a tus necesidades**.
+
 ---
 
-### 3. 🚫 La Línea Roja: Lo que NUNCA Debes Hacer
+### 3. La Línea Roja: Lo que NUNCA Debes Hacer
 
 Solo hay una regla inquebrantable, y es la más importante:
 
