@@ -1,0 +1,14 @@
+{
+  "skillOverrides": {
+    "adaptive": "name-only",
+    "agp-9-upgrade": "name-only",
+    "appfunctions": "name-only",
+    "camera1-to-camerax": "name-only",
+    "edge-to-edge": "name-only",
+    "engage-sdk-integration": "name-only",
+    "migrate-xml-views-to-jetpack-compose": "name-only",
+    "perfetto-sql": "name-only",
+    "perfetto-trace-analysis": "name-only",
+    "play-billing-library-version-upgrade": "name-only"
+  }
+}
