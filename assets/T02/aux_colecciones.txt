@@ -1,0 +1,33 @@
+// ColeccionesBasicas.kt — forEach, filter, map y reduce
+ 
+data class Pokemon(val nombre: String, val tipo: String, val nivel: Int, val vida: Int)
+ 
+val pokemons = listOf(
+    Pokemon("Pikachu", "Eléctrico", 25, 35),
+    Pokemon("Charmander", "Fuego", 12, 39),
+    Pokemon("Bulbasaur", "Planta", 10, 45),
+    Pokemon("Squirtle", "Agua", 14, 44),
+    Pokemon("Jigglypuff", "Normal", 8, 115),
+    Pokemon("Gengar", "Fantasma", 40, 60),
+    Pokemon("Onix", "Roca", 30, 35),
+    Pokemon("Psyduck", "Agua", 18, 50),
+    Pokemon("Snorlax", "Normal", 45, 160),
+    Pokemon("Vulpix", "Fuego", 16, 38),
+    Pokemon("Eevee", "Normal", 20, 55),
+    Pokemon("Magikarp", "Agua", 5, 20)
+)
+ 
+val numeros = listOf(3, 8, 15, 4, 42, 7, 23, 16, 1, 10)
+ 
+val frutas = listOf("manzana", "plátano", "kiwi", "naranja", "fresa", "melón", "uva", "sandía")
+ 
+data class Producto(val nombre: String, val precio: Double, val enOferta: Boolean)
+ 
+val carrito = listOf(
+    Producto("Leche", 1.15, false),
+    Producto("Pan", 0.90, false),
+    Producto("Cereales", 3.49, true),
+    Producto("Huevos", 2.30, false),
+    Producto("Chocolate", 1.99, true),
+    Producto("Zumo", 2.10, true)
+)
