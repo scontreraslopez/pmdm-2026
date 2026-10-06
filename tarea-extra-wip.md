@@ -25,4 +25,4 @@ Desarrollar una aplicación en **Jetpack Compose** que permita calcular los mate
 4. **Recursos:**
     * Descarga iconos simples (puedes usar assets de juegos open source o iconos genéricos de Material) e impórtalos en la carpeta `res/drawable`. No se permite el uso de librerías de carga de imágenes de internet.
 
-![alt text](image.png)
+//TODO esto fixearlo... ![alt text](image.png)
