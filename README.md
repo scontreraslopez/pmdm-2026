@@ -30,6 +30,18 @@ El material del curso es una adaptación personal del material original del prof
 
 A partir de dicho material se elaboró ya en 2025 una primera versión para esta misma asignatura, disponible en [https://github.com/scontreraslopez/pmdm-2025](https://github.com/scontreraslopez/pmdm-2025). Y de aquellos polvos, estos lodos.
 
+## Disclaimer
+
+Este material se ha hecho con mucho cuidado y cariño, pero no puedo garantizar que esté libre de errores. Si encuentras alguno, házmelo saber para poder corregirlo: puedes abrir una incidencia en la sección de [Issues](https://github.com/scontreraslopez/pmdm-2026/issues) o revisar si ya está reportada. Del mismo modo, las aportaciones vía Pull Request también son bienvenidas.
+
+## Licencia
+
+Como docente, creo que el conocimiento crece cuando se comparte, y mi objetivo último es contribuir al aprendizaje de cualquiera que lo necesite, no solo de mis alumnos. Por eso este material se publica bajo licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es) ([texto completo](LICENSE)): siéntete libre de usarlo, copiarlo, adaptarlo y compartirlo como quieras.
+
+Lo único que pido es lo mismo que intento hacer yo con el trabajo de otros: citar la fuente. Basta con mencionar la autoría (Sergio Contreras López) y enlazar a este repositorio, indicando si has hecho cambios.
+
+El código de ejemplo de `assets/` se distribuye bajo licencia [MIT](LICENSE-CODE).
+
 ## Uso legítimo y ético de la IA en la asignatura de PMDM
 
 En la asignatura de Programación Multimedia y Dispositivos Móviles (PMDM), se permite el uso de herramientas de inteligencia artificial (IA) para apoyar el aprendizaje y la resolución de problemas, siempre que se utilicen de manera ética y responsable. A continuación, se detallan las directrices para el uso legítimo de la IA en esta asignatura.
