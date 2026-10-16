@@ -1,4 +1,4 @@
-# 📜 Enunciado de la Actividad de Ampliación: "Azeroth Reagent Calculator"
+# Enunciado de la Actividad de Ampliación: "Azeroth Reagent Calculator"
 
 **Objetivo:**
 Desarrollar una aplicación en **Jetpack Compose** que permita calcular los materiales necesarios para fabricar recetas (crafting), aplicando los patrones de diseño, gestión de estado y listas eficientes vistos hasta la **UD06**.
@@ -25,4 +25,4 @@ Desarrollar una aplicación en **Jetpack Compose** que permita calcular los mate
 4. **Recursos:**
     * Descarga iconos simples (puedes usar assets de juegos open source o iconos genéricos de Material) e impórtalos en la carpeta `res/drawable`. No se permite el uso de librerías de carga de imágenes de internet.
 
-//TODO esto fixearlo... ![alt text](image.png)
+![Receta wow panel](./img/recipe-wow.png)
